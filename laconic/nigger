@@ -1,0 +1,3 @@
+DETECTS "NIGGA": \bn[iao10][gq]{1,2}(l[e3]t|[e3]r|[a4]|n[o0]g)?s?\b
+
+DOES NOT DETECT "NIGGA": \bn[iao10][gq]{1,2}(l[e3]t|[e3]r|n[o0]g)?s?\b
