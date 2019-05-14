@@ -1,9 +1,9 @@
 ###Slur detector by Blank-Cheque github.com/Blank-Cheque/Slurs###
 title+body (regex): 
-  - '\b(s[a4]nd)?n[ia4o10][gq]{1,2}(l[e3]t|[e3]r|[a4]|n[o0]g)?s?\b'
-  - 'f[a4][gq]{1,2}([e3i1o0]t{1,2}(ry|rie)?)?\b'
-  - '\bk[i1y]k[e3](ry|rie)?s?\b'
-  - '\btr[a4]n{1,2}([i1][e3]|y|[e3]r)s?\b'
+  - '\b(s[a4]nd)?n[ila4o10][gq]{1,2}(l[e3]t|[e3]r|[a4]|n[o0]g)?s?\b'
+  - 'f[a4][gq]{1,2}([e3il1o0]t{1,2}(ry|r[il1]e)?)?\b'
+  - '\bk[il1y]k[e3](ry|rie)?s?\b'
+  - '\btr[a4]n{1,2}([i1l][e3]|y|[e3]r)s?\b'
   - '\bc[o0]{2}ns?\b'
   - '\bch[i1l]nks?\b'
 action: filter
