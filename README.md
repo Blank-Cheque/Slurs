@@ -16,3 +16,19 @@ Allows for variations in the form of nonlatin characters, but not amount of lett
 ## Laconic
 
 Does not allow for variations in the form of nonlatin characters or amount of letters. E.g., out of nigger, ṋıꝙʠểr, and niiiiggggeerr, only nigger will be captured. 
+
+# Usage
+
+To use any of these filters, go to https://www.reddit.com/r/[subreddit]/wiki/config/automoderator and add the following:
+
+```
+###Slur detector by Blank-Cheque github.com/Blank-Cheque/Slurs###
+title+body (regex): 
+  - '[filter 1]'
+  - '[filter 2]'
+  - '[etc]'
+action: filter
+action_reason: 'Contains disallowed word "{{match}}"'
+```
+
+I'm no lawyer, but I'd kindly ask that you leave the comment included for credit. 
