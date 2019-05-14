@@ -19,7 +19,9 @@ Allows for neither variations in the form of nonlatin characters nor amount of l
 
 # Usage
 
-To use any of these filters, go to https://www.reddit.com/r/[subreddit]/wiki/config/automoderator and add the following:
+In each folder, the file \_quick-add contains a premade automod rule which can be immediately added to your subreddit. To add it, go to https://www.reddit.com/r/[subreddit]/wiki/config/automoderator and add the entirety of \_quick-add. 
+
+To add a specific filter or filters, go to https://www.reddit.com/r/[subreddit]/wiki/config/automoderator and add the following:
 
 ```
 ###Slur detector by Blank-Cheque github.com/Blank-Cheque/Slurs###
