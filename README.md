@@ -15,7 +15,7 @@ Allows for variations in the form of nonlatin characters, but not amount of lett
 
 ## Laconic
 
-Does not allow for variations in the form of nonlatin characters or amount of letters. E.g., out of nigger, ṋıꝙʠểr, and niiiiggggeerr, only nigger will be captured. 
+Allows for neither variations in the form of nonlatin characters nor amount of letters. E.g., out of nigger, ṋıꝙʠểr, and niiiiggggeerr, only nigger will be captured. 
 
 # Usage
 
