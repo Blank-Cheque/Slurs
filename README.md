@@ -7,7 +7,7 @@ For questions or suggestions, contact /u/Blank-Cheque on reddit.
 
 ## Verbose
 
-Allows for as many variations as possible, including nonlatin characters and amount of letters. E.g., nigger, niiiiggggeerr, and ṊṋṈṉN̈n̈ȈȉI̋i̋ȊȋỊịꞼꞽḬḭƗɨᶖᶃꬶＧｇěËëẼẽĖėrrrrr will all be captured. 
+Allows for as many variations as possible, including nonlatin characters and amount of letters. E.g., nigger, niiiiggggeerr, and ṊṋṈṉN̈n̈ȈȉI̋i̋ȊȋỊịḬḭƗɨᶖᶃꬶＧｇěËëẼẽĖėrrrrr will all be captured. 
 
 ## Concise
 
