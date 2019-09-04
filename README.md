@@ -32,7 +32,7 @@ title+body (regex):
   - '[filter 2]'
   - '[etc]'
 action: filter
-action_reason: 'Contains disallowed word "{{match}}"'
+action_reason: 'Contains disallowed word [{{match}}]'
 ```
 
 I'm no lawyer, but I'd kindly ask that you leave the comment included for credit. 
